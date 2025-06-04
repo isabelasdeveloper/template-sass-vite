@@ -1,3 +1,1 @@
-FIGMA PROJECT LINK
-
->
+Template SASS + Vite for projects.
